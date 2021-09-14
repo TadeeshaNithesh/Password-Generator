@@ -6,7 +6,7 @@ This is created using C++
 
 ⭕ If you have an IDE, run the file using it.
 
-⭕ If you haven't, go to onlinegdb.com/online_c_compiler and run the copied code.
+⭕ If you haven't, go to https://onlinegdb.com/online_c_compiler and run the copied code.
 
 ⭕ you can run it using CMD or Terminal also.
 
