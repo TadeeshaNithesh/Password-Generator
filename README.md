@@ -10,4 +10,6 @@ This is created using C++
 
 ⭕ you can run it using CMD or Terminal also.
 
-  code :- g++ -o runProgram password_generator.cpp
+    g++ -o runProgram password_generator.cpp
+    
+    that is the code
